@@ -10,7 +10,7 @@
 |---------|------|------|
 | Stitch90 - Football Jersey Store | [aby10.pythonanywhere.com](https://aby10.pythonanywhere.com) | Django, Python, SQLite, Bootstrap |
 | Feedback Sentiment | [View](https://github.com/abhiiinay/feedback-sentiment) | JavaScript, Python, HTML, CSS, Machine Learning |
-| E-Learning Platform | [View](https://github.com/abhiiinay/E-learning) | HTML/CSS |
+| E-Learning Platform | [View](https://github.com/abhiiinay/E-learning) | HTML, CSS, Python, Django |
 | Portfolio | [View](https://github.com/abhiiinay/portfolio) | HTML/CSS |
 | Furniture | [View](https://github.com/abhiiinay/furniture) | HTML/CSS |
 | Blog | [View](https://github.com/abhiiinay/blog) | HTML/CSS |
