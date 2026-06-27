@@ -15,8 +15,7 @@
 | Furniture | [View](https://github.com/abhiiinay/furniture) | HTML/CSS |
 | Blog | [View](https://github.com/abhiiinay/blog) | HTML/CSS |
 | Neaty | [View](https://github.com/abhiiinay/neaty) | HTML/CSS |
-| Survey Form | [View](https://github.com/abhiiinay/surveyform) | HTML/CSS |
-| Web | [View](https://github.com/abhiiinay/web) | HTML/CSS |
+
 
 ## 🛠️ Skills
 - Python | Django | C | SQL | Php 
