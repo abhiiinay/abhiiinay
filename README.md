@@ -12,12 +12,16 @@
 | Feedback Sentiment | [View](https://github.com/abhiiinay/feedback-sentiment) | JavaScript |
 | E-Learning Platform | [View](https://github.com/abhiiinay/E-learning) | HTML/CSS |
 | Portfolio | [View](https://github.com/abhiiinay/portfolio) | HTML/CSS |
+| Furniture | [View](https://github.com/abhiiinay/furniture) | HTML/CSS |
+| Blog | [View](https://github.com/abhiiinay/blog) | HTML/CSS |
+| Neaty | [View](https://github.com/abhiiinay/neaty) | HTML/CSS |
+| Survey Form | [View](https://github.com/abhiiinay/surveyform) | HTML/CSS |
+| Web | [View](https://github.com/abhiiinay/web) | HTML/CSS |
 
 ## 🛠️ Skills
-- Python | Django
-- HTML | CSS | JavaScript
+- Python | Django | C | SQL | Php 
+- HTML | CSS | JavaScript | React
 - Git | GitHub
-
 <!---
 abhiiinay/abhiiinay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
