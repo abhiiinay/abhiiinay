@@ -1,128 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D001A,50:1A0033,100:0D001A&height=180&section=header&text=A%20B%20H%20I%20N%20A%20Y&fontSize=48&fontColor=B24BF3&fontAlignY=45&animation=twinkling" width="100%"/>
+# Abhinay
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=B24BF3&center=true&vCenter=true&width=580&lines=%3E+full+stack+developer;%3E+django+%2F+python+%2F+react+%2F+js;%3E+booting+up+new+ideas..." alt="Typing SVG"/>
+Full Stack Developer &nbsp;·&nbsp; B.Tech CSE &nbsp;·&nbsp; Django / Python / React / JavaScript
 
-<br><br>
-
-<img src="https://img.shields.io/badge/CSE-B.Tech-8A2BE2?style=flat-square&labelColor=0D001A"/>
-<img src="https://img.shields.io/badge/status-shipping-8A2BE2?style=flat-square&labelColor=0D001A"/>
-<img src="https://img.shields.io/badge/email-abhinayak2585%40gmail.com-8A2BE2?style=flat-square&labelColor=0D001A&logo=gmail&logoColor=B24BF3"/>
+[![Portfolio](https://img.shields.io/badge/Portfolio-aby10.pythonanywhere.com-181717?style=flat-square)](https://aby10.pythonanywhere.com)
+[![Email](https://img.shields.io/badge/Email-abhinayak2585%40gmail.com-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:abhinayak2585@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abhiiinay-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abhiiinay)
 
 </div>
 
-&nbsp;
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0D001A&height=2&width=100%"/>
+## About
 
-<table width="100%" border="0">
-<tr>
-<td width="60%" valign="top">
+I'm a full stack developer studying Computer Science & Engineering, focused on building working products rather than just tutorials. Most of my projects use Django and Python on the backend, with React or plain JavaScript on the front end. I like shipping small, complete things over half-finished big ones.
 
-### `~/about.md`
+<br>
 
-```
-> whoami
-Abhinay — Full Stack Developer
+## Projects
 
-> education
-B.Tech, Computer Science & Engineering
-
-> stack
-Django · Python · React · JavaScript
-
-> currently
-Building real products, shipping side projects,
-always debugging something at 2 AM.
-```
-
-</td>
-<td width="40%" valign="top" align="center">
-
-### `~/socials.md`
-
-<a href="https://aby10.pythonanywhere.com"><img src="https://img.shields.io/badge/PORTFOLIO-0D001A?style=for-the-badge&logo=vercel&logoColor=B24BF3"/></a><br>
-<a href="https://github.com/abhiiinay"><img src="https://img.shields.io/badge/GITHUB-0D001A?style=for-the-badge&logo=github&logoColor=B24BF3"/></a><br>
-<a href="mailto:abhinayak2585@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0D001A?style=for-the-badge&logo=gmail&logoColor=B24BF3"/></a>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D001A,100:8A2BE2&height=2&width=100%"/>
-
-### `~/projects --sort=priority`
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🛰️ Stitch90**
-Football jersey e-commerce store
+**[Stitch90](https://aby10.pythonanywhere.com)** — Football jersey e-commerce store
 `Django` `Python` `SQLite` `Bootstrap`
-[`→ launch`](https://aby10.pythonanywhere.com)
 
-</td>
-<td width="50%" valign="top">
+**[Feedback Sentiment](https://github.com/abhiiinay/feedback-sentiment)** — ML-powered feedback analyzer
+`Python` `Machine Learning` `JavaScript`
 
-**🧠 Feedback Sentiment**
-ML-powered feedback analyzer
-`Python` `ML` `JS` `HTML/CSS`
-[`→ source`](https://github.com/abhiiinay/feedback-sentiment)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📡 E-Learning Platform**
-Online course delivery platform
+**[E-Learning Platform](https://github.com/abhiiinay/E-learning)** — Online course platform
 `Django` `Python` `HTML/CSS`
-[`→ source`](https://github.com/abhiiinay/E-learning)
 
-</td>
-<td width="50%" valign="top">
-
-**🗂️ More builds**
-Portfolio · Furniture UI · Blog · Neaty
+**[Portfolio](https://github.com/abhiiinay/portfolio)** · **[Furniture Store UI](https://github.com/abhiiinay/furniture)** · **[Blog](https://github.com/abhiiinay/blog)** · **[Neaty](https://github.com/abhiiinay/neaty)**
 `HTML` `CSS`
-[`→ view all repos`](https://github.com/abhiiinay?tab=repositories)
 
-</td>
-</tr>
-</table>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0D001A&height=2&width=100%"/>
+## Tech Stack
 
-### `~/stack --list`
+**Languages:** Python · JavaScript · C · PHP · SQL
+**Frameworks:** Django · React · Bootstrap
+**Tools:** Git · GitHub · VS Code
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,c,php,mysql,django,react,bootstrap,git,github,vscode&theme=dark" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=abhiiinay&show_icons=true&theme=default&hide_border=true&hide_title=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiinay&layout=compact&theme=default&hide_border=true&hide_title=true" width="34%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D001A,100:8A2BE2&height=2&width=100%"/>
-
-### `~/stats --live`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhiiinay&show_icons=true&theme=radical&hide_border=true&bg_color=0D001A&title_color=B24BF3&icon_color=B24BF3&text_color=E6D9FF" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiinay&theme=radical&hide_border=true&background=0D001A&stroke=8A2BE2&ring=B24BF3&fire=B24BF3&currStreakLabel=E6D9FF" width="48%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiinay&theme=react-dark&hide_border=true&bg_color=0D001A&color=B24BF3&line=8A2BE2&point=E6D9FF" width="97%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0D001A&height=2&width=100%"/>
+<br>
 
 <div align="center">
 
-⭐ **star a repo if something here was useful to you**
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D001A,50:1A0033,100:0D001A&height=100&section=footer"/>
+If any of this was useful, a star on the repo is appreciated.
 
 </div>
 
