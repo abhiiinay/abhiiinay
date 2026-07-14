@@ -1,140 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=ABHINAY%20⚡&fontSize=60&fontColor=00F5FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Systems%20Thinker&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D001A,50:1A0033,100:0D001A&height=180&section=header&text=A%20B%20H%20I%20N%20A%20Y&fontSize=48&fontColor=B24BF3&fontAlignY=45&animation=twinkling" width="100%"/>
 
-<a href="https://aby10.pythonanywhere.com"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-00F5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F19"/></a>
-<a href="mailto:abhinayak2585@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF00E5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19"/></a>
-<a href="https://github.com/abhiiinay"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=B24BF3&center=true&vCenter=true&width=580&lines=%3E+full+stack+developer;%3E+django+%2F+python+%2F+react+%2F+js;%3E+booting+up+new+ideas..." alt="Typing SVG"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/CSE-B.Tech-8A2BE2?style=flat-square&labelColor=0D001A"/>
+<img src="https://img.shields.io/badge/status-shipping-8A2BE2?style=flat-square&labelColor=0D001A"/>
+<img src="https://img.shields.io/badge/email-abhinayak2585%40gmail.com-8A2BE2?style=flat-square&labelColor=0D001A&logo=gmail&logoColor=B24BF3"/>
 
 </div>
 
-<br>
+&nbsp;
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=650&lines=Building+real+products+that+solve+problems;Django+%7C+Python+%7C+JavaScript+%7C+React;Always+learning%2C+always+shipping+🚀" alt="Typing SVG"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0D001A&height=2&width=100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00E5&height=3&width=100%"/>
+<table width="100%" border="0">
+<tr>
+<td width="60%" valign="top">
 
-## `01` ⟶ TRANSMISSION // ABOUT
+### `~/about.md`
 
-```yaml
-identity:    Abhinay
-education:   B.Tech — Computer Science & Engineering
-role:        Full Stack Developer
-focus:       "Django · Python · JavaScript · React"
-status:      "Currently shipping side projects & open to opportunities"
+```
+> whoami
+Abhinay — Full Stack Developer
+
+> education
+B.Tech, Computer Science & Engineering
+
+> stack
+Django · Python · React · JavaScript
+
+> currently
+Building real products, shipping side projects,
+always debugging something at 2 AM.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F5FF&height=3&width=100%"/>
-
-## `02` ⟶ FEATURED BUILDS
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🥇 Stitch90
-**Football Jersey Store**
-
-`Django` `Python` `SQLite` `Bootstrap`
-
-[![Live Demo](https://img.shields.io/badge/LAUNCH-00F5FF?style=flat-square&logo=vercel&logoColor=black)](https://aby10.pythonanywhere.com)
-
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="top" align="center">
 
-### 🥈 Feedback Sentiment
-**ML-Powered Feedback Analyzer**
+### `~/socials.md`
 
-`Python` `ML` `JS` `HTML/CSS`
-
-[![Repo](https://img.shields.io/badge/SOURCE-FF00E5?style=flat-square&logo=github&logoColor=white)](https://github.com/abhiiinay/feedback-sentiment)
-
-</td>
-<td width="33%" valign="top">
-
-### 🥉 E-Learning Platform
-**Online Course Platform**
-
-`Django` `Python` `HTML/CSS`
-
-[![Repo](https://img.shields.io/badge/SOURCE-39FF14?style=flat-square&logo=github&logoColor=black)](https://github.com/abhiiinay/E-learning)
+<a href="https://aby10.pythonanywhere.com"><img src="https://img.shields.io/badge/PORTFOLIO-0D001A?style=for-the-badge&logo=vercel&logoColor=B24BF3"/></a><br>
+<a href="https://github.com/abhiiinay"><img src="https://img.shields.io/badge/GITHUB-0D001A?style=for-the-badge&logo=github&logoColor=B24BF3"/></a><br>
+<a href="mailto:abhinayak2585@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0D001A?style=for-the-badge&logo=gmail&logoColor=B24BF3"/></a>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>⟶ Expand full archive [4 more builds]</b></summary>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D001A,100:8A2BE2&height=2&width=100%"/>
 
-| Project | Stack | Link |
-|:--|:--|:--|
-| **Portfolio** | HTML · CSS | [Repo](https://github.com/abhiiinay/portfolio) |
-| **Furniture Store UI** | HTML · CSS | [Repo](https://github.com/abhiiinay/furniture) |
-| **Blog** | HTML · CSS | [Repo](https://github.com/abhiiinay/blog) |
-| **Neaty** | HTML · CSS | [Repo](https://github.com/abhiiinay/neaty) |
+### `~/projects --sort=priority`
 
-</details>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00E5&height=3&width=100%"/>
+**🛰️ Stitch90**
+Football jersey e-commerce store
+`Django` `Python` `SQLite` `Bootstrap`
+[`→ launch`](https://aby10.pythonanywhere.com)
 
-## `03` ⟶ TECH STACK
+</td>
+<td width="50%" valign="top">
+
+**🧠 Feedback Sentiment**
+ML-powered feedback analyzer
+`Python` `ML` `JS` `HTML/CSS`
+[`→ source`](https://github.com/abhiiinay/feedback-sentiment)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📡 E-Learning Platform**
+Online course delivery platform
+`Django` `Python` `HTML/CSS`
+[`→ source`](https://github.com/abhiiinay/E-learning)
+
+</td>
+<td width="50%" valign="top">
+
+**🗂️ More builds**
+Portfolio · Furniture UI · Blog · Neaty
+`HTML` `CSS`
+[`→ view all repos`](https://github.com/abhiiinay?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0D001A&height=2&width=100%"/>
+
+### `~/stack --list`
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00F5FF)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00F5FF)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=8892BE)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00F5FF)
-
-**Frameworks & Libraries**
-
-![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF00E5)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00F5FF)
+<img src="https://skillicons.dev/icons?i=python,js,c,php,mysql,django,react,bootstrap,git,github,vscode&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,100:00F5FF&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D001A,100:8A2BE2&height=2&width=100%"/>
 
-## `04` ⟶ LIVE METRICS
+### `~/stats --live`
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhiiinay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F5FF&icon_color=FF00E5&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiinay&theme=tokyonight&hide_border=true&background=0B0F19&stroke=00F5FF&ring=FF00E5&fire=FF00E5&currStreakLabel=00F5FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhiiinay&show_icons=true&theme=radical&hide_border=true&bg_color=0D001A&title_color=B24BF3&icon_color=B24BF3&text_color=E6D9FF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiiinay&theme=radical&hide_border=true&background=0D001A&stroke=8A2BE2&ring=B24BF3&fire=B24BF3&currStreakLabel=E6D9FF" width="48%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiiinay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F19&title_color=00F5FF&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiinay&theme=react-dark&hide_border=true&bg_color=0D001A&color=B24BF3&line=8A2BE2&point=E6D9FF" width="97%"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhiiinay&theme=tokyo-night&hide_border=true&bg_color=0B0F19&color=00F5FF&line=FF00E5&point=FFFFFF" width="97%"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF00E5&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:0D001A&height=2&width=100%"/>
 
 <div align="center">
 
-### ⟶ Let's connect and build something real
+⭐ **star a repo if something here was useful to you**
 
-[![Gmail](https://img.shields.io/badge/-abhinayak2585@gmail.com-0B0F19?style=for-the-badge&logo=gmail&logoColor=00F5FF)](mailto:abhinayak2585@gmail.com)
-[![GitHub](https://img.shields.io/badge/-abhiiinay-0B0F19?style=for-the-badge&logo=github&logoColor=FF00E5)](https://github.com/abhiiinay)
-
-⭐ *If you like my work, consider starring my repos!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D001A,50:1A0033,100:0D001A&height=100&section=footer"/>
 
 </div>
 
