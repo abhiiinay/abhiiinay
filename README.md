@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://aby10.pythonanywhere.com"><img src="https://img.shields.io/badge/🌐_Portfolio-4F46E5?style=flat-square&logoColor=white"/></a>
+<a href="https://aby10.pythonanywhere.com](https://abhiiinay.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-4F46E5?style=flat-square&logoColor=white"/></a>
 <a href="https://github.com/abhiiinay"><img src="https://img.shields.io/badge/💻_GitHub-06B6D4?style=flat-square&logoColor=white"/></a>
 <a href="mailto:abhinayak2585@gmail.com"><img src="https://img.shields.io/badge/✉️_Email-6366F1?style=flat-square&logoColor=white"/></a>
 
